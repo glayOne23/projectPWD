@@ -1,2 +1,2 @@
 # projectPWD
-is project assigment for pwd cours
+is project assigment for pwd course
